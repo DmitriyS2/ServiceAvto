@@ -1,0 +1,11 @@
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\bin\Debug\netcoreapp3.1\ServiceAvto.exe
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\bin\Debug\netcoreapp3.1\ServiceAvto.deps.json
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\bin\Debug\netcoreapp3.1\ServiceAvto.runtimeconfig.json
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\bin\Debug\netcoreapp3.1\ServiceAvto.runtimeconfig.dev.json
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\bin\Debug\netcoreapp3.1\ServiceAvto.dll
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\bin\Debug\netcoreapp3.1\ServiceAvto.pdb
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\obj\Debug\netcoreapp3.1\ServiceAvto.csprojAssemblyReference.cache
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\obj\Debug\netcoreapp3.1\ServiceAvto.AssemblyInfoInputs.cache
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\obj\Debug\netcoreapp3.1\ServiceAvto.AssemblyInfo.cs
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\obj\Debug\netcoreapp3.1\ServiceAvto.dll
+C:\Users\pc-3\source\repos\ServiceAvto\ServiceAvto\obj\Debug\netcoreapp3.1\ServiceAvto.pdb
