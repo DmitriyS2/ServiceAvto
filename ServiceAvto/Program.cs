@@ -14,7 +14,7 @@ namespace ServiceAvto
                 if (user == "Администратор" || user == "администратор" || user == "Клиент" || user == "клиент") break;
             }
             Console.WriteLine($"Добрый день, {user}!");
-            Console.WriteLine($"Добрый день, {user}!");
+
         }
     }
 }
