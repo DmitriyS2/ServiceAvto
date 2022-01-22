@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc-3\\source\\repos\\ServiceAvto\\ServiceAvto\\ServiceAvto.csproj",
+      "projectUniqueName": "C:\\Users\\pc-3\\source\\repos\\1\\ServiceAvto\\ServiceAvto\\ServiceAvto.csproj",
       "projectName": "ServiceAvto",
-      "projectPath": "C:\\Users\\pc-3\\source\\repos\\ServiceAvto\\ServiceAvto\\ServiceAvto.csproj",
+      "projectPath": "C:\\Users\\pc-3\\source\\repos\\1\\ServiceAvto\\ServiceAvto\\ServiceAvto.csproj",
       "packagesPath": "C:\\Users\\pc-3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc-3\\source\\repos\\ServiceAvto\\ServiceAvto\\obj\\",
+      "outputPath": "C:\\Users\\pc-3\\source\\repos\\1\\ServiceAvto\\ServiceAvto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc-3\\AppData\\Roaming\\NuGet\\NuGet.Config",
